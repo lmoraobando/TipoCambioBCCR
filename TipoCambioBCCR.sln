@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoCambioBCCR", "TipoCambioBCCR\TipoCambioBCCR.csproj", "{D00ED15D-B00E-4E42-826E-B48609B45B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00ED15D-B00E-4E42-826E-B48609B45B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00ED15D-B00E-4E42-826E-B48609B45B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00ED15D-B00E-4E42-826E-B48609B45B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00ED15D-B00E-4E42-826E-B48609B45B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4072E18-DA14-4451-98FA-C618920E35AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,80 @@
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR.exe
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR.deps.json
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR.runtimeconfig.json
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR.pdb
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.csproj.AssemblyReference.cache
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.AssemblyInfoInputs.cache
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.AssemblyInfo.cs
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.csproj.CoreCompileInputs.cache
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/refint/TipoCambioBCCR.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.pdb
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.genruntimeconfig.cache
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/ref/TipoCambioBCCR.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.Saml.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Xml.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Private.ServiceModel.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Security.Cryptography.Xml.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Duplex.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Federation.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Http.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.NetTcp.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Primitives.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Security.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Leonardo/source/repos/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.csproj.CopyComplete
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR.deps.json
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR.runtimeconfig.json
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/TipoCambioBCCR.pdb
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.WsTrust.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.Saml.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.IdentityModel.Xml.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Private.ServiceModel.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Security.Cryptography.Xml.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Duplex.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Federation.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Http.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.NetTcp.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Primitives.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.ServiceModel.Security.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Pkcs.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.csproj.AssemblyReference.cache
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.AssemblyInfoInputs.cache
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.AssemblyInfo.cs
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.csproj.CoreCompileInputs.cache
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.csproj.CopyComplete
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/refint/TipoCambioBCCR.dll
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.pdb
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/TipoCambioBCCR.genruntimeconfig.cache
+/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/Debug/net6.0/ref/TipoCambioBCCR.dll

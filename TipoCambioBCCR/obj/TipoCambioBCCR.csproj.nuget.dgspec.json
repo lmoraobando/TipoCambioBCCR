@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/TipoCambioBCCR.csproj": {}
+  },
+  "projects": {
+    "/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/TipoCambioBCCR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/TipoCambioBCCR.csproj",
+        "projectName": "TipoCambioBCCR",
+        "projectPath": "/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/TipoCambioBCCR.csproj",
+        "packagesPath": "/Users/leonardomoraobando/.nuget/packages/",
+        "outputPath": "/Users/leonardomoraobando/Documents/Personal projects/BCCR tipo cambio/TipoCambioBCCR/TipoCambioBCCR/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leonardomoraobando/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
